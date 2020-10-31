@@ -1,4 +1,4 @@
-import { runCLI } from '@jest/core';
+import { runCLI } from 'jest';
 import PluginError from 'plugin-error';
 import through2 from 'through2';
 
